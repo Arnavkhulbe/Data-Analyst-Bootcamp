@@ -1,10 +1,8 @@
-# 📊 Data Analytics Mathematics
+# 📊 Data Analytics
 
-Welcome to my Data Analytics Mathematics learning repository.
+Welcome to my Data Analytics repository.
 
-## Topics
 
-- Statistics
 
 ## Goal
 
